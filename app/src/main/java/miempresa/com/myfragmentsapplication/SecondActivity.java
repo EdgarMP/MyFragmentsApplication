@@ -7,6 +7,7 @@ import android.widget.TextView;
 public class SecondActivity extends AppCompatActivity {
 
     private TextView myTextView;
+    private TextView secondTextView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
